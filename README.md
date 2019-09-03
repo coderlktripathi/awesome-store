@@ -1,4 +1,3 @@
-# Fruit store
 State management in anuglar applications using ngrx/store
 
 ## Prerequisites
